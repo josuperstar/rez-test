@@ -1,6 +1,6 @@
 name = "hello_world_test1"
 
-version = "1.0.2"
+version = "1.0.3"
 
 authors = [
     "ajohns"
@@ -16,7 +16,7 @@ tools = [
 ]
 
 requires = [
-    "python"
+    "python-2.7+"
 ]
 
 uuid = "examples.hello_world_py"
